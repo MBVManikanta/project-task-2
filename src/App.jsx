@@ -1,6 +1,6 @@
 import React from 'react';
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
-import Navbar from './components/Navbar';
+
 import NameList from './components/NameList';
 import LifecycleComponent from './components/LifecycleComponent';
 import RegistrationForm from './components/RegistrationForm';
@@ -8,6 +8,7 @@ import RegistrationForm from './components/RegistrationForm';
 import { ThemeProvider } from './themeContext';
 import withLogging from './components/withLogging';
 import ThemePage from './components/ThemePage';
+import Navbar from './components/navbar';
 
 const LoggedLifecycleComponent = withLogging(LifecycleComponent);
 
