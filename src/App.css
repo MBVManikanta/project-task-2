@@ -1,0 +1,57 @@
+/* 
+.app.light {
+  background-color: #ffffff;
+  color: #333;
+}
+
+.app.dark {
+  background-color: #333;
+  color: #ffffff;
+}
+
+.theme-toggle {
+  margin: 1rem 0;
+  padding: 0.5rem 1rem;
+  cursor: pointer;
+  font-size: 1rem;
+}
+
+
+
+body.light {
+  background-color: #f8f9fa;
+  color: #000;
+}
+
+body.dark {
+  background-color: #343a40;
+  color: #fff;
+} */
+
+
+/* 
+body.light {
+  background-color: #f8f9fa;
+  color: #000;
+}
+
+body.dark {
+  background-color: #343a40;
+  color: #fff;
+}
+
+.app {
+  transition: background-color 0.3s, color 0.3s; /* Smooth transition for theme change 
+}*/
+
+/* Button styles based on theme 
+.btn-dark {
+  background-color: #000;
+  color: #fff;
+}
+
+.btn-light {
+  background-color: #fff;
+  color: #000;
+} */
+
